@@ -1,0 +1,32 @@
+{
+  "name": "eslint-config-sourcetoad",
+  "version": "1.0.0",
+  "description": "Sourcetoad's eslint config",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sourcetoad/javascript.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslint-config",
+    "sourcetoad",
+    "standards"
+  ],
+  "author": "Max Kaplan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sourcetoad/javascript/issues"
+  },
+  "homepage": "https://github.com/sourcetoad/javascript#readme",
+  "dependencies": {
+    "eslint": "^3.19.0",
+    "eslint-config-airbnb": "^14.1.0",
+    "eslint-plugin-import": "^2.2.0",
+    "eslint-plugin-jsx-a11y": "^4.0.0",
+    "eslint-plugin-react": "^6.10.3"
+  }
+}
