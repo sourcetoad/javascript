@@ -37,5 +37,7 @@ module.exports = {
       analytics: true,
       io: true,
       document: true,
+      fetch: true
   },
+  parser: 'babel-eslint'
 };
